@@ -1,0 +1,5 @@
+# Ignore Flask env
+Flask+API+front-end-conn/env
+
+# Ignore FastAPI env
+fastAPI-student-db/env
