@@ -1,5 +1,17 @@
-# Ignore Flask env
-Flask+API+front-end-conn/env
+# Python virtual environments
+**/env/
+**/.venv/
+**/venv/
 
-# Ignore FastAPI env
-fastAPI-student-db/env
+# Python generated files
+**/__pycache__/
+*.py[cod]
+
+# Local configuration and secrets
+**/.env
+**/.env.*
+
+# Tooling and OS files
+.vscode/
+.idea/
+.DS_Store
